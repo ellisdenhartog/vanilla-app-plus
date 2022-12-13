@@ -80,3 +80,11 @@ body {
     color: #000;
   }
   
+  #celsius-link{
+    text-decoration: none;
+  }
+
+  #fahrenheit-link{
+    text-decoration: none;
+    
+  }
