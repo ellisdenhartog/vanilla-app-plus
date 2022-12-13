@@ -22,8 +22,6 @@ function formatDate(timestamp) {
     return `${day} ${hours}:${minutes}`;
   }
   
-  
-  
   function displayTemperature(response) {
     let temperatureElement = document.querySelector("#temperature");
     let cityElement = document.querySelector("#city");
